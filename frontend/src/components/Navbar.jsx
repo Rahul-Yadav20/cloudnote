@@ -43,11 +43,13 @@ const Navbar = () => {
         <>
             <nav className=" sticky top-0 z-50 w-full flex justify-between items-center bg-black text-white h-20 px-5">
 
-                <div className="logo w-16 flex flex-col items-center">
+                <Link to="/">
+                    <div className="logo w-16 flex flex-col items-center">
 
-                    <img src={logo} alt="" className='h-12 bg-cover' />
-                    <p className='text-xs ms-3'>NoteKeeper</p>
-                </div>
+                        <img src={logo} alt="" className='h-12 bg-cover' />
+                        <p className='text-xs ms-3'>NoteKeeper</p>
+                    </div>
+                </Link>
 
                 <div className='hidden md:flex space-x-4 font-medium '>
                     {
