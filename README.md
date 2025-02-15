@@ -134,5 +134,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Contact
 
-Your Name - youremail@example.com
-Project Link: https://github.com/yourusername/cloud-notes
+Your Name - rahul.ydv0927@gmail.com
+Project Link: https://github.com/Rahul-Ydav20/cloud-notes
